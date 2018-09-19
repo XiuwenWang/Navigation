@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Navigation</string>
+    <string name="loan">贷款</string>
+    <string name="passageway">口子</string>
+    <string name="credit_card">信用卡</string>
+    <string name="tools">工具</string>
+    <string name="my">我的</string>
+    <string name="home_page">首页</string>
+</resources>
